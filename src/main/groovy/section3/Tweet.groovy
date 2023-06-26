@@ -1,4 +1,4 @@
-package groovy_basics
+package section3
 
 class Tweet {
     public String username;
