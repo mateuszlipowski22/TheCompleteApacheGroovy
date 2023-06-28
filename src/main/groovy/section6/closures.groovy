@@ -1,4 +1,4 @@
-package section7
+package section6
 
 def myMethod(Closure c){
     c();
