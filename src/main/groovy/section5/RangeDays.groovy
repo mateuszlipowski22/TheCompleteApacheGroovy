@@ -1,4 +1,4 @@
-package section6
+package section5
 
 enum Days {
     SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
